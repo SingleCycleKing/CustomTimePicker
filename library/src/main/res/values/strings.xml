@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Library</string>
+    <string name="year">年</string>
+    <string name="day">日</string>
+    <string name="month">月</string>
+    <string name="hour">时</string>
+    <string name="minute">分</string>
+    <string name="second">秒</string>
 </resources>
