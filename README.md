@@ -1,6 +1,6 @@
 # CustomTimePicker
 Beautiful TimePicker and DatePicker...
-
+![Screenshot](https://github.com/SingleCycleKing/CustomTimePicker/blob/master/picture.png)
 ##使用方法
   1.将library导入，修改你的工程的gradle如下:
 
